@@ -28,17 +28,20 @@ git clone https://github.com/yourusername/reverse-shell-generator.git
 cd reverse-shell-generator
 ```
 ### 2. Make it executable
+```
 chmod +x reversegen.sh
-
+```
 
 ### 3. Run the script
+```
 ./reversegen.sh
-
+```
 
 ### 4. Enter your target IP and port
+```
 Enter target IP: 10.0.0.1
 Enter target port: 4444
-
+```
 
 ### 5. Get your payloads
 The script will print reverse shell payloads with your IP and port substituted.
