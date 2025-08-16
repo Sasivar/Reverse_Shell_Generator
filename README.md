@@ -44,7 +44,7 @@ Enter target port: 4444
 ```
 
 ### 5. Get your payloads
-The script will print reverse shell payloads with your IP and port substituted.
+Select an option and the script will print reverse shell payloads with your IP and port substituted.
 
 ---
 
