@@ -1,6 +1,6 @@
 # Reverse Shell Generator
 
-A modular Bash script that generates reverse shell payloads for multiple languages and environments. Designed for penetration testers, red teamers, and CTF enthusiasts who need quick access to customizable shell payloads.
+A modular Bash script that generates reverse shell payloads for multiple languages and environments. Designed for beginners getting started with Capture The Flag (CTF) challenges who need quick access to customizable reverse shell payloads.
 
 ---
 
